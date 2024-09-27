@@ -82,7 +82,7 @@ def createLabel(row):
     addCenteredText(fontMedium, f"{row['Miles']}")
 
     # Add right-aligned code at the bottom right corner
-    rightAlignText(draw, f"Code {row['Code']}", canvasHeight, fontSmall)
+    rightAlignText(draw, f"00{row['Code']}", canvasHeight, fontSmall)
 
     # Paste the logo at the bottom-left corner
     img.paste(logo, (10, canvasHeight - logo.size[1] - 10))  # 10px margin from the bottom and left
