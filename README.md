@@ -77,7 +77,7 @@ Here's an example of the SourceData.xlsx that contains the data used for generat
 ![alt text](excelScreenshot.png "Excel Sheet")
 ### Sample Generated Label:
 Here’s what a sample label looks like, with price, lot number, car, VIN, miles, and code displayed.
-![alt text](labels_2024-09-26_19:50/label_4T1BF1FK2GU612950.png "Sample Label")
+![alt text](sampleLabel.png "Sample Label")
 
 ## Customization:
 - You can modify the fonts by replacing the font files in the `fonts/Roboto` folder.
