@@ -71,6 +71,14 @@ python labelGenerator.py
 - **SourceData.xlsx**: A sample Excel file has been included, which you can modify with your own data.
 - **labels_2024-09-26_19-50/**: A folder with sample generated labels is included to showcase the output.
 
+## Screenshots:
+### Excel Sheet:
+Here's an example of the SourceData.xlsx that contains the data used for generating the labels.
+![alt text](excelScreenshot.png "Excel Sheet")
+### Sample Generated Label:
+Here’s what a sample label looks like, with price, lot number, car, VIN, miles, and code displayed.
+![alt text](labels_2024-09-26_19:50/label_4T1BF1FK2GU612950.png "Sample Label")
+
 ## Customization:
 - You can modify the fonts by replacing the font files in the `fonts/Roboto` folder.
 - Change the logo by replacing the `logo.png` file with your own logo image.
