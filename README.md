@@ -53,7 +53,7 @@ pip install pandas pillow openpyxl
 ### Running the Script:
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/LabelGenerator.git
+git clone https://github.com/orayda718/LabelGenerator/
 cd LabelGenerator
 ```
 2. Prepare the data:
